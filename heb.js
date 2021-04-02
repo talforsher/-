@@ -1,4 +1,4 @@
-const בקשה = function(כתובת){
+window.בקשה = function(כתובת){
 
     fetch(כתובת)
 
